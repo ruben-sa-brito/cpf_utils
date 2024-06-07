@@ -37,4 +37,5 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-obs: essa gem nao esta publicada, é meramente um modelo para estudo.
+##
+obs: esta gem é meramente um modelo para estudo.
